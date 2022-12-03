@@ -1,5 +1,5 @@
 <h1>Tambah Data</h1>
-
+{{-- tes update --}}
 <form action="/warga/store" method="POST">
     @csrf
     <input type="text" name="name" placeholder="nama"><br>
